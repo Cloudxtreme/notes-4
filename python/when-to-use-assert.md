@@ -220,4 +220,4 @@ Here's my advice when *not* to use assertions:
 * Don't use so many assertions that they obscure the code.
 
 --
-https://mail.python.org/pipermail/python-list/2013-November/660401.html
+source: https://mail.python.org/pipermail/python-list/2013-November/660401.html
