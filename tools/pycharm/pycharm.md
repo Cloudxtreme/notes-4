@@ -16,5 +16,5 @@ metodlar arasi pittiri pittiri ilerlemek icin.
 
 - CTRL + 0
 
-Kolayca metod override. Yalniz base class'in argument imzasini direkt aliyor, *args, **kwargs yapaydi iyiydi.
+Kolayca metod override. Yalniz base class'in argument imzasini direkt aliyor, **args, **kwargs yapaydi iyiydi.
 
