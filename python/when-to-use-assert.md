@@ -92,7 +92,7 @@ def some_function(arg):
 
 Assertions also make good checked comments. Instead of writing a comment:
 
-# when we reach here, we know that n > 2
+#### when we reach here, we know that n > 2
 
 you can ensure it is checked at runtime by turning it into an assert:
 
