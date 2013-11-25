@@ -18,7 +18,7 @@ function south_update() {
 }
 ```
 
-**poor man's backup solution*
+**poor man's backup solution**
 
 ```bash
 mysqldump -e -u user -pparolan dbname | gzip | uuencode dbbackup_e.gz | mail target_email
