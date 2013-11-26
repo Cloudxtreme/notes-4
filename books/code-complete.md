@@ -8,3 +8,9 @@ focusing on the reuse of design ideas, code, and test cases from previous projec
 --
 "You might think that all professional programmers know about the importance of preparation and check 
 that the prerequisities have been satisfied before jumping into construction. Unfortunately, that isn't so."
+
+--
+"Explicit requirements help to ensure that the user rather than the programmer drives the system's functionality.
+If the requirements are explicit, the user can review them and agree to them. 
+If they're not, the programmer usually **ends up making requirements** decisions during programming. Explicit requirements 
+keep you from guessing what the user wants."
