@@ -17,3 +17,6 @@ keep you from guessing what the user wants."
 
 --
 "Programmers working with high-level languages achieve better productivity and quality than those working with lower-level languages. Languages such as C++, Java, Smalltalk, and Visual Basic have been credited with improving productivity, reliability, simplicity, and comprehensibility by factors of 5 to 15 over low-level languages such as assembly and C. You save time when you don't need to have an awards ceremony every time a C statement does what it's supposed to."
+
+--
+"The most radical solution to building software is not to build it at all—to buy it instead or to download open-source software for free."
