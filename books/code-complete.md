@@ -14,3 +14,6 @@ that the prerequisities have been satisfied before jumping into construction. Un
 If the requirements are explicit, the user can review them and agree to them. 
 If they're not, the programmer usually **ends up making requirements** decisions during programming. Explicit requirements 
 keep you from guessing what the user wants."
+
+--
+"Programmers working with high-level languages achieve better productivity and quality than those working with lower-level languages. Languages such as C++, Java, Smalltalk, and Visual Basic have been credited with improving productivity, reliability, simplicity, and comprehensibility by factors of 5 to 15 over low-level languages such as assembly and C. You save time when you don't need to have an awards ceremony every time a C statement does what it's supposed to."
